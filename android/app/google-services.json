@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647761111031",
+    "project_id": "flutter-test-pai",
+    "storage_bucket": "flutter-test-pai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647761111031:android:11a403020c0e854e63b0f2",
+        "android_client_info": {
+          "package_name": "com.ktech.pandawa_agri_indo_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjEfCMLgn-_E0RdI7N4qnEZIWVpKPNTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
